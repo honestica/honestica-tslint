@@ -1,9 +1,10 @@
 {
-    "extends": ["tslint:latest"],
+  "extends": [ "tslint:latest" ],
   "rules": {
     "only-arrow-functions": [],
     "curly": true,
     "no-construct": true,
+    "interface-name": [ false ],
     "no-duplicate-variable": true,
     "no-invalid-this": true,
     "no-unused-expression": true,
