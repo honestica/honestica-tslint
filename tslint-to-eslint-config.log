@@ -1,0 +1,10 @@
+Error: multiple output @typescript-eslint/consistent-type-assertions ESLint rule options were generated, but tslint-to-eslint-config doesn't have "merger" logic to deal with this.
+Please file an issue at https://github.com/typescript-eslint/tslint-to-eslint-config/issues/new?template=missing_merger.md 🙏
+
+[33mjsdoc-format does not yet have an ESLint equivalent.[39m
+[33mno-reference-import does not yet have an ESLint equivalent.[39m
+[33mno-unused-variable does not yet have an ESLint equivalent.[39m
+[33mone-line does not yet have an ESLint equivalent.[39m
+[33mprefer-conditional-expression does not yet have an ESLint equivalent.[39m
+[33mwhitespace does not yet have an ESLint equivalent.[39m
+[33m[39m
